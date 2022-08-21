@@ -9,6 +9,16 @@
      "type": "walking",
      "image_url":"https://images.unsplash.com/photo-1529154036614-a60975f5c760?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
      "best_lap": [1660094578, 786]
+   },
+  {
+     "id": 1,
+     "route": [50.9873,15.4519,50.7822,15.9801],
+     "name":"Bicycle drive",
+     "length": 1950,
+     "description":"Inside forest",
+     "type": "bicycle",
+     "image_url":"https://images.unsplash.com/photo-1660296396747-ef97d067066d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+     "best_lap": [1660094578, 786]
    }
   ],
   
@@ -23,7 +33,7 @@
          "date":1661004578
         },
         {
-         "route_id":1,
+         "route_id":2,
          "time":398,
          "date":1661594578
         }
