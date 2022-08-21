@@ -3,8 +3,11 @@
    {
      "id": 1,
      "route": [57.9873,15.4519,58.7822,34.6782],
+     "name":"Walking in the sky",
+     "length": 950,
+     "description":"Route in the center of the city",
      "type": "walking",
-     "best_lap": [18766341772881, 786]
+     "best_lap": [1660094578, 786]
    }
   ],
   
@@ -16,12 +19,12 @@
         {
          "route_id":1,
          "time":98,
-         "date":1876634177288
+         "date":1661004578
         },
         {
          "route_id":1,
          "time":398,
-         "date":1876634179000
+         "date":1661594578
         }
        ]
     }
