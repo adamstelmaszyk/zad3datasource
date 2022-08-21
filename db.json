@@ -3,13 +3,13 @@
    {
      "id": 1,
      "route": [57.9873,15.4519,58.7822,34.6782],
-     "best_lap": 786
+     "best_lap": [18766341772881, 786]
    ],
   
   "users":[
     {
       "id": 1,
       "nick": "alexanderthegrate",
-      "last_times":[1,98]
+      "last_times":[1,98,18766341772881]
     ]
 }
